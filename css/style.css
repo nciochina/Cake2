@@ -70,6 +70,7 @@ body {
 }
 
 .buton_first {
+
     position: absolute;
     width: 200px;
     height: 48px;
@@ -77,6 +78,7 @@ body {
     top: 373px;
     background: #9CADA4;
     box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.1);
+    border: none;
 }
 
 .btn_titel {
@@ -99,16 +101,10 @@ body {
     border: 1.75px solid #9CADA4;
     box-sizing: border-box;
     filter: drop-shadow(0px 20px 50px rgba(0, 0, 0, 0.1));
-}
-
-.btn_titel_sec {
-    position: absolute;
-    width: 94px;
-    height: 20px;
-    left: 414px;
-    top: 387px;
+    font-family: Montserrat;
+    font-style: normal;
     font-weight: 600;
     font-size: 16px;
     line-height: 20px;
-
+    color: #000000;
 }
