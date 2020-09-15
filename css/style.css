@@ -102,3 +102,9 @@ body {
     line-height: 20px;
     color: #000000;
 }
+
+.buton_first:hover,
+.buton_first:focus,
+.buton_first:active {
+    background-color: #6d7c74;
+}
